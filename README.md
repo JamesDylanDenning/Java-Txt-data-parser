@@ -35,5 +35,5 @@ Output File Generation:
 A new output file is created (or appended if it already exists) where the processed data is saved in a structured format.
 The first line of each file is processed to extract a specific piece of information, which, along with the calculation results, is written to the output file.
 
-Java SE JDK 21.0.2 
+Java SE Development Kit 21.0.2
 https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html
