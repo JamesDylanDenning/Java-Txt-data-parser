@@ -1,6 +1,6 @@
 Text File Data Parser - CCUL
 
-•	Developed in house application for financial and accounting team to streamline workflow and auditing processes
+•	Developed in house Java application for financial and accounting team to streamline workflow and auditing processes
 
 •	Integrated application saving the client 5-10 hours each month by automating manual data entry and revision process
 
